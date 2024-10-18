@@ -46,7 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Clases\Constantes.cs" />
+    <Compile Include="Clases\Genericos\Constantes.cs" />
     <Compile Include="Clases\DB\Genericos.cs" />
     <Compile Include="Clases\DB\Peaje.cs" />
     <Compile Include="Clases\DB\Registro.cs" />

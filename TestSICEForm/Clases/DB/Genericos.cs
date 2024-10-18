@@ -3,6 +3,7 @@ using System.Data;
 using System.Data.SqlClient;
 using System.Diagnostics;
 using System.Windows.Forms;
+using TestSICEForm.Clases.Genericos;
 
 namespace TestSICEForm.Clases.DB
 {

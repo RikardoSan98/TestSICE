@@ -1,4 +1,4 @@
-﻿namespace TestSICEForm.Clases
+﻿namespace TestSICEForm.Clases.Genericos
 {
     public class Constantes
     {
